@@ -11,6 +11,7 @@
 
   <ItemGroup>
     <Compile Include="superalloc_analysis.cs" />
+    <Compile Include="superalloc_utils.cs" />
   </ItemGroup>
 
 </Project>
